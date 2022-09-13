@@ -14,6 +14,10 @@ public void Addingcart()
 public void removeFromCarttest()
 {
 	System.out.println("product removed");
+
+	System.out.println("second commit by 2nd engg");
+
 	System.out.println("second commit by 1st engg");
+
 }
 }

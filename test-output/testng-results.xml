@@ -2,16 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2022-09-13T14:51:09 IST" name="Default suite" finished-at="2022-09-13T14:51:09 IST" duration-ms="42">
+=======
+  <suite started-at="2022-09-13T14:46:36 IST" name="Default suite" finished-at="2022-09-13T14:46:36 IST" duration-ms="52">
+>>>>>>> branch 'master' of https://github.com/Viratk18/QspCartAutomation.git
     <groups>
     </groups>
+<<<<<<< HEAD
     <test started-at="2022-09-13T14:51:09 IST" name="Default test" finished-at="2022-09-13T14:51:09 IST" duration-ms="42">
+=======
+    <test started-at="2022-09-13T14:46:36 IST" name="Default test" finished-at="2022-09-13T14:46:36 IST" duration-ms="52">
+>>>>>>> branch 'master' of https://github.com/Viratk18/QspCartAutomation.git
       <class name="practice.Add_To_Cart">
+<<<<<<< HEAD
         <test-method signature="Addingcart()[pri:0, instance:practice.Add_To_Cart@503d687a]" started-at="2022-09-13T14:51:09 IST" name="Addingcart" finished-at="2022-09-13T14:51:09 IST" duration-ms="6" status="PASS">
+=======
+        <test-method signature="Addingcart()[pri:0, instance:practice.Add_To_Cart@503d687a]" started-at="2022-09-13T14:46:36 IST" name="Addingcart" finished-at="2022-09-13T14:46:36 IST" duration-ms="6" status="PASS">
+>>>>>>> branch 'master' of https://github.com/Viratk18/QspCartAutomation.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addingcart -->
+<<<<<<< HEAD
         <test-method signature="removeFromCarttest()[pri:0, instance:practice.Add_To_Cart@503d687a]" started-at="2022-09-13T14:51:09 IST" name="removeFromCarttest" finished-at="2022-09-13T14:51:09 IST" duration-ms="1" status="PASS">
+=======
+        <test-method signature="removeFromCarttest()[pri:0, instance:practice.Add_To_Cart@503d687a]" started-at="2022-09-13T14:46:36 IST" name="removeFromCarttest" finished-at="2022-09-13T14:46:36 IST" duration-ms="1" status="PASS">
+>>>>>>> branch 'master' of https://github.com/Viratk18/QspCartAutomation.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeFromCarttest -->
