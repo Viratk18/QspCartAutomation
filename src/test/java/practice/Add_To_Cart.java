@@ -8,4 +8,9 @@ public class Add_To_Cart
 public void Addingcart() {
 	System.out.println("added to cart succesfully");
 }
+@Test 
+public void removeFromCarttest()
+{
+	System.out.println("product removed");
+}
 }
